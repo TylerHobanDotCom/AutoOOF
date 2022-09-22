@@ -16,6 +16,7 @@ But I can't understand that! I need extremely incredibly detailed steps because 
 5. Right click the file in your browsers downloads section, and press show containing folder.
 6. Right click some blank space in the folder and then press "Open in Windows Terminal".
 7. Type into the box `python ./main.py`
+
 Repeat steps 6 and 7 when Roblox updates. You can also create a desktop or start menu shortcut to make this easier.
 
 # Troubleshooting:
