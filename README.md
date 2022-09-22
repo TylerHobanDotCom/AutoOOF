@@ -28,6 +28,6 @@ The sound is still the same!
 
 Restart Roblox.
 
-I get a 403 error!
+I get a 403/404 error!
 
 Disconnect from any VPN/Proxy/TOR/etc.. and run again. Check that you can access Roblox `clientsettings` api [here](https://clientsettings.roblox.com/v2/client-version/WindowsPlayer). If that works fine but you are still getting a 403/404 you are probably having an issue with the TriHard.space CDN which is used to host the sound file, check first if you are in an export control restricted or embargoed region (e.g Iran) and if not please contact support on [this page](https://trihard.space).
