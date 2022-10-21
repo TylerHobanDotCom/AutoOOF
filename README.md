@@ -5,6 +5,18 @@ Plans to eventually have a revamp with a background service so you don't have to
 
 # Usage
 
+"Easy" method / exe version:
+
+1. Click "Releases" on the right side of this screen.
+2. Click oof.exe on the most recent listing.
+3. Run the file.
+
+Repeat step 3 when roblox updates. (recommended to make a shortcut on your desktop or just put the file there for ease of access)
+
+
+"Hard" method / standalone python version / "old" instructions:
+
+
 Install Python 3.8+ and add to PATH, if you haven't already.
 Download main.py from releases and run with a terminal when roblox has updated. (Go to the folder where main.py is in cmd/powershell/etc.. and run using `python ./main.py`.
 
@@ -21,9 +33,13 @@ Repeat steps 6 and 7 when Roblox updates. You can also create a desktop or start
 
 # Troubleshooting:
 
+I don't know what the error is!
+
+Try all steps below, I was tired of having people harass me so I just supressed all errors in the executable. Sorry.
+
 I get a file not found error!
 
-Uninstall "Roblox Player" in Programs and Features and reinstall. This error is caused by running Roblox or the installer as Administrator, which changes the folder path. You can also edit main.py to the correct path.
+Uninstall "Roblox Player" in Programs and Features and reinstall. This error is caused by running Roblox or the installer as Administrator, which changes the folder path. You can also edit main.py to the correct path (you can repack the executable version if you really want to, but if you are editing the py file anyways you probably understand well enough how to use it standalone).
 
 The sound is still the same!
 
