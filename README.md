@@ -1,4 +1,7 @@
 # AutoOOF
+
+# THIS SHIT IS FUCKED BECAUSE ROBLOX CHANGED THE WAY THE CLIENT IS INSTALLED AND THIS SCRIPT WAS MADE IN A FEW MINUTES WITHOUT MUCH CONSIDERATION, THIS DOES NOT MEAN I WILL NOT EVER FIX IT, I JUST CANNOT BE BOTHERED RIGHT NOW.
+
 Classic death sound replacer for Roblox Game Client (not affiliated in any way with the Roblox Corporation, obviously.)
 
 Plans to eventually have a revamp with a background service so you don't have to run the script when Roblox updates.
